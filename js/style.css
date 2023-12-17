@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+body{
+    background-color: white;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+.para{
+    color: red;
+    font-size: 20px;
+}
+
+.para1{
+    background-color: green;
+}
